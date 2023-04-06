@@ -18,11 +18,11 @@ One of the fastest free nuke bot written in python
 ## Features
 
 <<<<<<< HEAD
-1. -[x] Delete all channels
-2. -[x] Create channels
-3. -[x] Ban all
-4. -[] Delete all roles
-5. -[] Create roles
-6. -[] Lgbt roles
-7. -[] Kick all
-8. -[x] Unban all
+- [x] - Delete all channels
+- [x] - Create channels
+- [x] - Ban all
+- [] - Delete all roles
+- [] - Create roles
+- [] - Lgbt roles
+- [] - Kick all
+- [x] - Unban all
