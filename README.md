@@ -17,5 +17,5 @@ One of the fastest free nuke bot written in python
 
 ## Features
 
-1. [x] nigger
+1. -[x] nigger
 
