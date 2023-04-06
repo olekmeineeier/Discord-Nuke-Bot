@@ -17,7 +17,7 @@ One of the fastest free nuke bot written in python
 
 ## Features
 
-<<<<<<< HEAD
+
 - [x] - Delete all channels
 - [x] - Create channels
 - [x] - Ban all
