@@ -17,6 +17,7 @@ One of the fastest free nuke bot written in python
 
 ## Features
 
+<<<<<<< HEAD
 1. -[x] Delete all channels
 2. -[x] Create channels
 3. -[x] Ban all
@@ -25,3 +26,7 @@ One of the fastest free nuke bot written in python
 6. [] Lgbt roles
 7. [] Kick all
 8. -[x] Unban all
+=======
+1. -[x] nigger
+
+>>>>>>> 20af57f3a254c84ebd4fe12b6312b64001e60e90
